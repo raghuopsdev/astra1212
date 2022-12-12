@@ -2,3 +2,4 @@ Welcome to Git Sessions
 My second line
 My third line
 My fourth line
+My sixth line

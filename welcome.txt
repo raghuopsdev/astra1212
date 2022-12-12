@@ -1,2 +1,3 @@
 Welcome to Git Sessions
+My second line
 My third line
